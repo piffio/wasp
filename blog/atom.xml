@@ -19,11 +19,9 @@
             <uri>https://mmaksimovic.dev/</uri>
         </author>
         <category label="webdev" term="webdev"/>
-        <category label="auth" term="auth"/>
-        <category label="react" term="react"/>
-        <category label="django" term="django"/>
-        <category label="tutorial" term="tutorial"/>
-        <category label="full-stack" term="full-stack"/>
+        <category label="postgresql" term="postgresql"/>
+        <category label="database" term="database"/>
+        <category label="os-maintainers" term="os-maintainers"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wasp: The JavaScript Answer to Django for Web Development]]></title>
